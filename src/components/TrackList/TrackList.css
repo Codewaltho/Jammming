@@ -1,0 +1,7 @@
+.TrackList {
+  width: 100%;
+}
+
+.TrackList.playlist {
+  width: 90%;
+}
